@@ -1,0 +1,191 @@
+AI STUDENT LEARNING &
+CAREER SUCCESS PLATFORM
+Student, Trainer & Platform Administration Policy Handbook
+Document Type
+Document Version
+Effective Date
+Platform Domain
+Educational Platform Policy Handbook
+1.0
+Sample date: 13 November 2026
+Sample knowledge-base document for a Retrieval-Augmented
+Generation (RAG) chatbot project
+Education / Student Learning & Career Readiness
+Purpose
+Important: This is a fictional sample policy created for educational purposes, internship practice, and RAG chatbot
+development. It is not an official policy of a college, employer, or operating institution. Replace sample rules and
+contact details with approved information before real-world use.
+Page 1
+AI Student Learning & Career Success Platform | Sample Policy Handbook
+Document Contents
+• 1. Platform Overview
+• 2. User Roles and Account Access
+• 3. Student Profile and Learning Records
+• 4. Learning Activities and Course Progress
+• 5. Practice Assessments and Skill Drills
+• 6. AI Recommendations and Career Readiness
+• 7. Trainer Responsibilities
+• 8. Administrator Responsibilities
+• 9. Attendance, Participation and Communication
+• 10. Data Privacy and Information Security
+• 11. Acceptable Use and Code of Conduct
+• 12. Feedback, Support and Issue Reporting
+• 13. Policy Review and Updates
+• 14. Sample Frequently Asked Questions
+• 15. Disclaimer
+1. Platform Overview
+The AI Student Learning & Career Success Platform is an educational technology concept designed to support
+student learning, skill development, progress monitoring, and career preparation.
+The platform may provide role-based experiences for Students, Trainers, and Administrators. Depending on the
+features enabled by the institution, it may display learning progress, recommended topics, practice activities,
+course roadmaps, and platform-level insights.
+The platform is intended to support teaching and learning. It does not replace instructors, academic advisors,
+placement officers, or official institutional procedures.
+2. User Roles and Account Access
+• Students: Access their own profile, learning information, assigned learning activities, practice resources, and
+permitted progress information.
+• Trainers: Access trainer features and information about students assigned to them, subject to institutional
+permissions.
+• Administrators: Manage permitted platform-level settings and view authorized operational or learning insights.
+• Users must sign in using the credentials issued or approved by the institution.
+• Users must not share passwords, reuse another person's account, or attempt to access dashboards or records
+outside their assigned role.
+• If a user believes their account has been accessed by someone else, they should report it to the platform
+administrator or designated support contact.
+3. Student Profile and Learning Records
+• Students should provide accurate profile information when requested by the institution.
+• Learning records may include course enrolment, completed activities, assessment results, practice history, skill
+progress, and recommendations, where those features are available.
+Page 2
+AI Student Learning & Career Success Platform | Sample Policy Handbook
+• A student should review their displayed profile and report incorrect or missing information through the designated
+support channel.
+• Students may view only the records permitted for their account. They must not attempt to view or download
+another student's private information.
+• Institutional cohort or sample datasets may be used for analytics and demonstrations. A row in a cohort dataset
+does not necessarily represent a registered user account unless an approved account-to-record link exists.
+4. Learning Activities and Course Progress
+• Students are encouraged to follow their course roadmap and complete learning activities in the suggested
+sequence.
+• Course materials and learning resources should be used for educational purposes and in accordance with any
+licence or copyright notice attached to them.
+• Progress indicators are intended to help students understand their learning activity. They should not be treated as
+a final academic grade unless the institution explicitly designates them as such.
+• If a course, lesson, or learning resource is unavailable, the student should report the issue rather than repeatedly
+submitting incomplete activity.
+• Trainers may provide additional instructions, deadlines, or learning resources for their assigned students.
+5. Practice Assessments and Skill Drills
+• Practice questions and skill drills are intended to help students identify strengths and areas for improvement.
+• Students should attempt practice activities independently unless collaboration is explicitly permitted.
+• Students must not use unauthorized assistance, impersonate another learner, or manipulate assessment results.
+• Where explanations or feedback are provided, students should use them to review concepts and improve future
+attempts.
+• Practice scores are learning indicators and may not represent performance in a formal examination or recruitment
+assessment.
+6. AI Recommendations and Career Readiness
+• The platform may use available learning information to suggest topics, practice activities, or areas for further study.
+• AI-generated recommendations are guidance only. Students should discuss important academic or career
+decisions with a qualified trainer, mentor, or placement advisor.
+• A readiness score or risk category, if displayed, is an indicative analytical signal based on available data and the
+platform's configured method.
+• A readiness score must not be interpreted as a guarantee of employment, admission, certification, or selection in a
+recruitment process.
+• AI-generated responses may be incomplete or incorrect. Users should verify important information with the
+relevant course material, trainer, or official institutional source.
+• Users should not enter highly sensitive personal information into an AI chat unless the institution has explicitly
+approved that use and provided appropriate safeguards.
+7. Trainer Responsibilities
+• Trainers should use the platform only for authorized teaching, mentoring, and student-support activities.
+• Trainers should review information only for students assigned to them or otherwise authorized by the institution.
+• Trainers should provide clear learning instructions and communicate relevant deadlines to students.
+Page 3
+AI Student Learning & Career Success Platform | Sample Policy Handbook
+• Trainers should use progress indicators as supporting information and consider context before drawing
+conclusions about a student's performance.
+• Trainers should report inaccurate records, access problems, or suspected security incidents to the platform
+administrator.
+8. Administrator Responsibilities
+• Administrators should manage user roles and permissions according to institutional authorization.
+• Administrators should protect platform configuration, account records, and institutional data from unauthorized
+access.
+• Platform-level reports should be shared only with people who have a legitimate educational or operational need.
+• Administrators should coordinate the correction of inaccurate account mappings or student records through an
+approved process.
+• Administrators should review reported technical issues and security concerns and arrange appropriate follow-up.
+9. Attendance, Participation and Communication
+• If attendance or participation tracking is enabled, students should follow the institution's official attendance
+procedure.
+• A platform activity record should not automatically be treated as official attendance unless the institution has
+approved that use.
+• Students should inform their trainer or institution through the official communication channel if they cannot attend a
+required session or meet a deadline.
+• Users should communicate respectfully and avoid abusive, threatening, discriminatory, or disruptive messages.
+• Official academic schedules, attendance rules, and deadline changes are determined by the institution, not by an
+AI-generated response.
+10. Data Privacy and Information Security
+• Users must keep login credentials confidential and use strong, unique passwords where supported.
+• Users must not upload another person's personal information unless they have authorization and a valid
+educational purpose.
+• Student records and learning data must be accessed only for authorized educational or administrative purposes.
+• Users must not attempt to bypass authentication, role restrictions, or other security controls.
+• Suspected phishing, unauthorized access, accidental disclosure, or data loss should be reported promptly to the
+designated administrator or support team.
+• Data collection, retention, sharing, and deletion must follow the institution's approved privacy notice and applicable
+requirements. This sample handbook does not establish a legal retention period.
+11. Acceptable Use and Code of Conduct
+• Use the platform respectfully and for legitimate learning, teaching, or administration.
+• Do not upload malware, harmful files, misleading content, or material that infringes another person's rights.
+• Do not copy, scrape, alter, or redistribute platform data without permission.
+• Do not attempt to exploit bugs, interfere with platform availability, or access restricted functions.
+• Respect the privacy, work, and learning progress of other students and staff.
+• Use AI tools responsibly and disclose AI assistance when required by the trainer or institution.
+Page 4
+AI Student Learning & Career Success Platform | Sample Policy Handbook
+12. Feedback, Support and Issue Reporting
+Users should report technical problems, incorrect student information, inaccessible learning materials, or
+suspected security incidents through the support channel designated by their institution.
+A useful issue report should include the affected feature, a short description of the problem, the approximate date
+and time, and a screenshot where appropriate. Users should avoid including passwords, API keys, or unnecessary
+personal information.
+For academic questions, students should contact their trainer or academic coordinator. For account access or
+platform issues, students should contact the designated platform administrator or technical support team.
+13. Policy Review and Updates
+This sample policy should be reviewed whenever platform features, institutional requirements, or data-handling
+practices change.
+The institution operating the platform is responsible for approving official policy changes and communicating the
+current version to users.
+If a policy statement conflicts with an official institutional rule, users should follow the institution's formally approved
+rule and seek clarification from the responsible office.
+14. Sample Frequently Asked Questions
+Q1. Does an AI recommendation guarantee placement?
+No. AI recommendations are guidance based on available information. They do not guarantee placement or
+selection.
+Q2. Can a student view another student's dashboard?
+No. Students should access only the records permitted for their own account.
+Q3. Is a practice score the same as an official exam result?
+Not necessarily. Practice scores are intended for learning unless the institution explicitly defines them as formal
+assessment results.
+Q4. What should a student do if their profile information is incorrect?
+The student should report the issue through the institution's designated support or administrator channel.
+Q5. Can trainers view every student record?
+Trainer access should be limited to assigned students or other records specifically authorized by the institution.
+Q6. Does a readiness score guarantee that a student is job-ready?
+No. It is an indicative measure and should be considered alongside trainer feedback, practical skills, and other
+relevant evidence.
+Q7. What should a user do if they suspect an account security issue?
+They should report it promptly to the designated platform administrator or support team.
+15. Disclaimer
+This document is a fictional sample created exclusively for educational purposes, internship practice, and RAG
+application development. It is not an official policy of any college, university, training provider, employer, or
+production software platform.
+Page 5
+AI Student Learning & Career Success Platform | Sample Policy Handbook
+The policy statements are sample knowledge-base content. They should not be presented as verified rules of the
+user's actual AI Student Learning & Career Success Platform unless reviewed and approved by the institution or
+project owner.
+For a classroom RAG demonstration, the chatbot should answer from this document and clearly state when a
+requested rule or detail is not specified here.
+End of Document
+Page 6
+AI Student Learning & Career Success Platform | Sample Policy Handbook
+
